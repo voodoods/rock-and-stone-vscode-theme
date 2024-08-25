@@ -1,6 +1,8 @@
-# Rock and Stone VSCode Theme
+# 🪨 ⛏️Rock and Stone VSCode Theme
 
 R&D provides you with this trusty syntax highlighting for the sophisticated engineer. Lights up, miners!
+
+![Theme Preview](./assets/preview.png)
 
 ## Disclaimer
 
